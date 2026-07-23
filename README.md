@@ -1,4 +1,4 @@
-# python-calculator1
+# python-calculator
 A simple calculator built in Python.
 # 🧮 Python Calculator
 
